@@ -1,8 +1,9 @@
 # Web scraping with Scrapy
 
 Here at first basic commands to fetch the website data were done.  
-THe site which is scraped is[books to scrape](www.bookstoscrape.com)  
-This is an easy and basic site to scrape.  
+THe site which is scraped is [books to scrape](www.bookstoscrape.com)  
+This is an easy and basic site to scrape. 
+!(the data) [booksdata.png] 
 
 ## Features
 - It uses the Fake user agent api to not to get blocked. Although this site doesn't block the user at all. It was done for learning purpose
